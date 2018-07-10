@@ -1,3 +1,3 @@
-# DaDi-server
+# Foodtalk-server
 
-Server for the Dadi application using GraphQL, Typescript, NodeJS
+Server for the Foodtalk application using GraphQL, Typescript, NodeJS

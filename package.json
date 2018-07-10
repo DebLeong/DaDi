@@ -1,7 +1,7 @@
 {
-  "name": "DaDi-server",
+  "name": "Foodtalk-server",
   "version": "1.0.0",
-  "description": "server for ride hailing application",
+  "description": "server for the foodtalk application",
   "main": "index.js",
   "repository": "https://github.com/DebLeong/DaDi-server",
   "author": "DebLeong <debleon9@gmail.com>",
@@ -25,10 +25,13 @@
   },
   "dependencies": {
     "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
     "graphql-tools": "^3.0.5",
     "graphql-yoga": "^1.14.12",
     "helmet": "^3.12.1",
     "merge-graphql-schemas": "^1.5.2",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.0",
+    "pg": "^7.4.3",
+    "typeorm": "^0.2.7"
   }
 }
