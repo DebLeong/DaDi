@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "server for the foodtalk application",
   "main": "index.js",
-  "repository": "https://github.com/DebLeong/DaDi-server",
+  "repository": "https://github.com/DebLeong/Foodtalk-server",
   "author": "DebLeong <debleon9@gmail.com>",
   "license": "MIT",
   "devDependencies": {
