@@ -2,7 +2,7 @@ import { ConnectionOptions } from "typeorm";
 
 const connectionOptions:ConnectionOptions = {
     type: "postgres",
-    database: "dadi",
+    database: "foodtalkql",
     synchronize: true,
     logging: true,
     entities: ["entities/**/*.*"],
